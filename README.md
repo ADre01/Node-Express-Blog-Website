@@ -1,5 +1,5 @@
 # Node-Express-Blog-Website
-Simple movie blog using node and express
+Simple movie blog using node and express.
 Uses local API to retrive move data
 
 
